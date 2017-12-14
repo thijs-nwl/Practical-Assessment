@@ -1,0 +1,5 @@
+node_modules/
+vue/
+web3.min.js
+deploy.js
+config.js
